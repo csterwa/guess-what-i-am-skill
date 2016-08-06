@@ -1,0 +1,3 @@
+Horse
+Chair
+Shovel
